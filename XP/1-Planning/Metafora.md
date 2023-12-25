@@ -32,3 +32,5 @@ El juego **El Lobito** es una aventura lógica donde debes ayudar a cuatro perso
 - **Visualización y Tecnología:** La consola del juego te ofrece una representación visual para que puedas seguir el progreso y las acciones de los personajes. Está programado en Java modelando los elementos del juego, como los personajes y la canoa.
 
 - **Cómo Jugar:** Para comenzar la aventura, tan solo compila y ejecuta la clase principal. ¡Buena suerte en tu travesía por el río!
+
+---
