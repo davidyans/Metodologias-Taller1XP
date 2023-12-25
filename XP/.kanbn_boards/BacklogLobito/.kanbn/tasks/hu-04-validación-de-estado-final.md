@@ -1,11 +1,12 @@
 ---
 created: 2023-12-21T07:19:04.192Z
-updated: 2023-12-21T08:06:04.447Z
+updated: 2023-12-25T23:01:07.822Z
 assigned: 'David Yanez, José Téran, Jeremy Torres'
 progress: 0
 tags: []
-due: 2023-12-21T00:00:00.000Z
-started: 2023-12-20T00:00:00.000Z
+due: 2023-12-25T00:00:00.000Z
+started: 2023-12-22T00:00:00.000Z
+completed: 2023-12-25T00:00:00.000Z
 ---
 
 # HU-04: Validación de Estado Final

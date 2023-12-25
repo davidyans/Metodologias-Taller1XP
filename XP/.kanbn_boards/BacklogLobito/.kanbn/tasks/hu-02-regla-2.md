@@ -1,11 +1,12 @@
 ---
 created: 2023-12-21T07:10:03.704Z
-updated: 2023-12-21T08:09:01.535Z
+updated: 2023-12-25T23:01:14.011Z
 assigned: 'David Yanez, José Téran, Jeremy Torres'
 progress: 0
 tags: []
-due: 2023-12-20T00:00:00.000Z
-started: 2023-12-19T00:00:00.000Z
+due: 2023-12-25T00:00:00.000Z
+started: 2023-12-22T00:00:00.000Z
+completed: 2023-12-25T00:00:00.000Z
 ---
 
 # HU-02: Regla 2
