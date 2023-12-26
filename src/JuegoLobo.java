@@ -2,7 +2,7 @@ import java.util.*;
 import java.util.stream.IntStream;
 
 public class JuegoLobo {
-    static boolean left_to_rigth = true; // Posicion inicial del observador y el resto
+    static boolean leftToRight = true; // Posicion inicial del observador y el resto
     public static void main(String[] args) {
         List<String> leftSide = new ArrayList<>(Arrays.asList("O", "L", "C", "U")), rightSide = new ArrayList<>();
         Scanner scanner = new Scanner(System.in);
@@ -12,10 +12,10 @@ public class JuegoLobo {
             System.out.println("\nElige: (O)bservador (para moverte solo), (L)obo, (C)aperucita, (U)vas");
             String choice = scanner.nextLine().toUpperCase();
             if(choice.equals("O") || choice.equals("L") || choice.equals("C") || choice.equals("U")){
-                if ((left_to_rigth && leftSide.contains(choice)) || (!left_to_rigth && rightSide.contains(choice))) {
-                    move(choice, left_to_rigth ? leftSide : rightSide, left_to_rigth ? rightSide : leftSide);
-                    move("O", left_to_rigth ? leftSide : rightSide, left_to_rigth ? rightSide : leftSide);
-                    printMoves(choice, left_to_rigth ? leftSide : rightSide, left_to_rigth ? rightSide : leftSide); left_to_rigth = !left_to_rigth;
+                if ((leftToRight && leftSide.contains(choice)) || (!leftToRight && rightSide.contains(choice))) {
+                    move(choice, leftToRight ? leftSide : rightSide, leftToRight ? rightSide : leftSide);
+                    move("O", leftToRight ? leftSide : rightSide, leftToRight ? rightSide : leftSide);
+                    printMoves(choice, leftToRight ? leftSide : rightSide, leftToRight ? rightSide : leftSide); leftToRight = !leftToRight;
                 } else { 
                     System.out.println("Movimiento inválido! " + choice.toUpperCase() + " tiene que estar del mismo lado del Observador."); 
                     continue; 
