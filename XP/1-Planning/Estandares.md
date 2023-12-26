@@ -62,7 +62,7 @@ Los nombres de los métodos (`move`, `printMoves`, `generateWater`, `printState`
 
 La longitud de línea no debe superar los 80 caracteres por motivos de visualización e impresión.
 
-
+---
 **5. Otras prácticas**
 
 - Paréntesis
@@ -74,3 +74,5 @@ La longitud de línea no debe superar los 80 caracteres por motivos de visualiza
   if (w == x && y == z)     // INCORRECTO
 
   if ((w == x) && (y == z)) // CORRECTO
+
+  ---
