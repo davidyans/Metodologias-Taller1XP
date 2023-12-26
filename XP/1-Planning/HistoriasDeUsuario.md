@@ -24,7 +24,7 @@
 | **HU-02**                   | **Título:** Regla 2                                                                                                                                                                                      |
 | --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Historia de usuario:**    | **Como** usuario del sistema, **quiero** recibir una notificación cuando la combinación de Caperucita y las uvas es peligrosa, **para** saber que Caperucita se come las uvas.                         |
-| **Criterio de aceptación:** | **Dado** que Caperucita y las uvas están juntas, **cuando** el Observador las mueve, **entonces** se muestra un mensaje indicando la pérdida del juego si están solas, analizando la presencia del lobo. |
+| **Criterio de aceptación:** | **Dado** que Caperucita y las uvas están juntas, **cuando** el Observador decide mover un personaje, **entonces** se muestra un mensaje indicando la pérdida del juego si están solas, analizando además la presencia del lobo. |
 |                             |                                                                                                                                                                                                          |
 
 | **_HU-03_**                 | **Título:** Regla 3                                                                                                                                                                                             |
