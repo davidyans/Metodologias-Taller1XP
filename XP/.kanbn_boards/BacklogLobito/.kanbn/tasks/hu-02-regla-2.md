@@ -13,7 +13,7 @@ completed: 2023-12-25T00:00:00.000Z
 
 **Descripción:** Si Caperucita está sola con las uvas => Caperucita se come las uvas.
 
-**Historia de Usuario:** **Como** usuario del sistema, **quiero** recibir una notificación cuando la combinación de Caperucita y las uvas sea peligrosa, **para** evitar que Caperucita se coma las uvas.
+**Historia de Usuario:** **Como** usuario del sistema, **quiero** recibir una notificación cuando la combinación de Caperucita y las uvas es peligrosa, **para** saber que Caperucita se come las uvas.
 
 **Criterio de aceptación:** **Dado** que Caperucita y las uvas están juntas, **cuando** el Observador decide moverlos, **entonces** se valida que la combinación no sea peligrosa, evitando que estén solos y en presencia del lobo.
 

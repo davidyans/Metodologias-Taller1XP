@@ -17,13 +17,13 @@
 
 | **HU-01**                   | **Título:** Regla 1                                                                                                                                                                                                               |
 | --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Historia de usuario:**    | **Como** usuario del sistema, **quiero** recibir una advertencia cuando la combinación del lobo y Caperucita sea peligrosa, **para** prevenir que el lobo se coma a Caperucita.                                                   |
-| **Criterio de aceptación:** | **Dado** que el lobo y Caperucita están presentes simultáneamente, **cuando** el Observador detecta esta situación, **entonces** se muestra una alerta clara y destacada, indicando el riesgo y sugiriendo una acción preventiva. |
+| **Historia de usuario:**    | **Como** usuario del sistema, **quiero** recibir una advertencia cuando la combinación del lobo y Caperucita es peligrosa, **para** saber que el lobo se come a Caperucita.                                                   |
+| **Criterio de aceptación:** | **Dado** que el lobo y Caperucita están presentes simultáneamente, **cuando** el Observador detecta esta situación, **entonces** se muestra una alerta clara y destacada, indicando el riesgo. |
 |                             |                                                                                                                                                                                                                                   |
 
 | **HU-02**                   | **Título:** Regla 2                                                                                                                                                                                      |
 | --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Historia de usuario:**    | **Como** usuario del sistema, **quiero** recibir una notificación cuando la combinación de Caperucita y las uvas sea peligrosa, **para** evitar que Caperucita se coma las uvas.                         |
+| **Historia de usuario:**    | **Como** usuario del sistema, **quiero** recibir una notificación cuando la combinación de Caperucita y las uvas es peligrosa, **para** saber que Caperucita se come las uvas.                         |
 | **Criterio de aceptación:** | **Dado** que Caperucita y las uvas están juntas, **cuando** el Observador decide moverlos, **entonces** se valida que la combinación no sea peligrosa, evitando que estén solos y en presencia del lobo. |
 |                             |                                                                                                                                                                                                          |
 

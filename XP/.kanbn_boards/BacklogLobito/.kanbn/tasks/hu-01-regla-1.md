@@ -14,7 +14,7 @@ completed: 2023-12-25T00:00:00.000Z
 **Descripción:** Si el lobo está solo con Caperucita => el lobo se come a Caperucita.
 
 **Historia de Usuario:**
-**Como** usuario del sistema, **quiero** recibir una advertencia cuando la combinación del lobo y Caperucita sea peligrosa, **para** prevenir que el lobo se coma a Caperucita.
+**Como** usuario del sistema, **quiero** recibir una advertencia cuando la combinación del lobo y Caperucita es peligrosa, **para** saber que el lobo se come a Caperucita.
 
 **Criterio de aceptación:** **Dado** que el lobo y Caperucita están presentes simultáneamente, **cuando** el Observador detecta esta situación, **entonces** se muestra una alerta clara y destacada, indicando el riesgo y sugiriendo una acción preventiva.
 
