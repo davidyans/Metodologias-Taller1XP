@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
-        "XP/3-Coding/src"
+        "XP/3-Coding/src",
+        "src"
     ]
 }
